@@ -1,0 +1,313 @@
+<resources>
+    <string name="app_name">CAROT</string>
+    <string name="email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in_short">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="btn_link_to_register">Not a Member? Register Now!</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_link_to_login">A Member? Login Now!</string>
+    <string name="minimum_password">Password is too short, enter minimum 6 characters!</string>
+
+    //Info-Kue
+    <string name="judul_info1">Bika Ambon From Medan</string>
+    <string name="isi_info1">Bika Ambon is a flat yellow cake, whose surface looks like the pores of a human skin, and the bottom is hard, the rest of the heat is placed on the bottom of the pan. Bika Ambon is usually served in square pieces.
+        When eaten, legit flavors are mixed with a chewy sensation on the tongue. The fragrant aroma of pandanus.</string>
+
+    <string name="judul_info2">Bakpia From Yogyakarta</string>
+    <string name="isi_info2">Bakpia is originally from China, originally named Tou Luk Pia, which means green bean pia (cake) cake. In addition, bakpia began to be produced in the Patok village of Yogyakarta, since around 1948. At that time, it was still traded in retail, packed in labels without labels, the demand was still very limited. The process continued until it changed with paperboard packaging accompanied by a label.</string>
+
+
+    <string name="judul_info3">Cake Roll From Surabaya</string>
+    <string name="isi_info3">Surabaya Roll Cake is the latest and unique souvenir from Surabaya. This gift feels so special, because it is available in many variants, ranging from vanilla flavored cake variants, pandanus flavored cakes, and chocolate-flavored cakes. For Filling, there are jam meises, durian, cheese, pineapple, strawberry, vanilla buttercream, chocolate buttercream</string>
+
+
+    <string name="judul_info4">Lemang From Karo</string>
+    <string name="isi_info4">Lemang or in Karo is called rires, can be enjoyed with a variety of complementary sauces. In the durian season, the sauce will be mixed with durian. But the Karo people are usually eaten with sauces called tengguli, made from brown sugar.</string>
+
+
+    <string name="judul_info5">Pinyaram From Padang</string>
+    <string name="isi_info5">West Sumatra has a lot of traditional snacks that taste very tasty and one of the very typical snacks named Kue Pinyaram and generally these cakes are made while welcoming holidays and special celebrations. Pinyaram cake is made from a mixture of sugar area, white fallow flour or black rice flour and coconut milk.</string>
+
+    <string name="judul_info6">Selat Putri Cake From Kalimantan</string>
+    <string name="isi_info6">Selat Putri Cake is known as a traditional traditional Banjar cake, South Kalimantan. This characteristic cake consists of three layers of cake in green, brown and white. Green layer from the use of suji leaf water, brown from brown sugar, and white from coconut milk and rice flour. The use of coconut milk is very dominant, which is needed for all layers of cake.</string>
+
+    <string name="judul_info7">Pinende Cake From Manado</string>
+    <string name="isi_info7">Pinende Cake is one of the traditional cakes from Manado. The basic ingredients for making it are sticky rice flour, hot water, salt, and grated coconut. The top of this cake is given brown sugar syrup.
+        This sweet snack deserves to be enjoyed in the morning while having a cup of warm tea.</string>
+
+    <string name="judul_info8">Manco Cake From Madiun</string>
+    <string name="isi_info8">This one-of-a-kind Madiun East Java food is called manco cake,
+        which is a typical Madiun snack made from sticky rice. This manco cake is a legacy from the ancestors whose myth is that snacks cannot be made in any area other than in their native village, namely Tambak Mas Village.</string>
+
+    <string name="judul_info9">Pie Cake From Bali</string>
+    <string name="isi_info9">Bali Milk Pie is a typical snack that is usually a special gift when on vacation in Bali. Small disc-shaped pie with a good taste of milk on the tongue. Our artificial Milk Pie does not use sugar or no artificial sweeteners, without preservatives, HALAL and with thicker flats, it feels melted on the tongue and the price is also cheap.
+        Our Milk Pie can be sent to the hotel, please contact us for more information.</string>
+
+    <string name="judul_info10">Lapis Talas Cake From Bogor</string>
+    <string name="isi_info10">Already, in the past, taro was known as one of the unique souvenirs of the City of Bogor in its form and consisted of several pieces in a bundle. But now, taro which is quite identical to rural specialties has begun to be developed into several processed products that can increase the selling value and different tastes of taro..</string>
+
+
+    //ResepKue
+    <string name="judul_resep1">Bika Ambon</string>
+    <string name="isi_resep1">Prickly material: Mix flour, granulated sugar, water and instant yeast, mix well then let stand for 15 minutes at room temperature
+        Coconut milk ingredients: Add thick coconut milk and liquid coconut milk, orange leaves, lemongrass and turmeric powder, stir until boil over low heat.
+        The main ingredient: Add whole eggs, egg yolks, granulated sugar, salt and vanilla powder, stir until they expand and then add sago flour and sticky rice flour, stir. Add the prickly ingredients to the main ingredients, stir until smooth, then add the coconut milk ingredients, stir until smooth and let stand for 2 hours.
+        After resting, stir again. Enter into a pan that has been given oil and has been heated. Bake in an oven with a temperature of 180 ℃ for 35-40 minutes with the oven door slightly open and use the bottom fire. Lift and serve.</string>
+    <string name="ket_resep1">300 ml thick coconut milk
+        100 ml of liquid coconut milk
+        4 orange leaves remove the stem
+        2 sticks of lemongrass, bruised,
+        1 tablespoon turmeric powder
+        Prickly material:
+        50 gr medium protein flour.
+        2 tablespoons of sugar,
+        120 ml of water.
+        8 g of instant yeast
+        The main ingredient
+        2 whole eggs
+        8 grains of egg yolk
+        100 g of sago flour
+        50 g of sticky rice flour
+        200 g of sugar
+        ½ teaspoon salt
+        1 tsp vanilla powder</string>
+    <string name="kota_resep1">Medan</string>
+
+    <string name="judul_resep2">Bakpia</string>
+    <string name="isi_resep2">How to make a typical Jogja Bakpia Pathok:
+        Making Bakpia Stuffing Material: Steam the drained green beans for about 20 minutes until the beans expand, then lift.
+        Put sugar, brown sugar, salt, coconut milk and pandan leaves, cook until thickened (smooth), add oil before the fire is turned off. Stir the mixture until it thickens flat (smooth) and slippery. Lift and wait until it cools slightly, then form into small balls.
+        Making Bakpia Layer: Stir all the ingredients until smooth, then set aside.
+        Making Bakpia Leather: Heat the water not to boil, add the sugar to stir until the sugar dissolves all and evenly then lift. mix flour and salt until smooth, pour sugar solution water little by little while kneading evenly.
+        Pour vegetable oil while kneading evenly and smooth.
+        Take the mixture about 10 grams. Flatter the mixture, then take a small amount of the mixture, spread it over the surface of the mixture until smooth.
+        Fold the dough and glue the edges to form a circle.
+        Soak the round mixture into the remaining oil for about 15 minutes.
+        Flatten the mixture until it is slightly thin, then fill it with a mixture of stuffing, flat round shape.
+        Bake the dough that has been filled into the oven with a temperature of 200 degrees C until cooked about 15-20 minutes. In order for the yellow color to be evenly distributed on the top of the bakia you can flip through the mixture. If it is in accordance with the wishes of lifting.
+
+
+</string>
+    <string name="ket_resep2">Bakpia skin material:
+        125 grams of low protein wheat flour
+        65 grams of high-protein wheat flour
+        100 ml of water
+        2 tablespoons of sugar
+        1/2 tablespoon of salt
+        200 ml of vegetable oil(
+        for a mixture of 50 ml mixture and for 150 ml bath)
+        Bakpia Layer Material:
+        65 grams of low protein wheat flour
+        25 ml of vegetable oil
+        1/2 tablespoon of margarine
+        Bakpia Stuffing Material:
+        100 grams of peeled green beans / green beans (soak overnight)
+        150 ml of coconut milk (from 1/2 coconut)
+        1/8 teaspoon of salt
+        1 sheet of pandan leave
+        25 grams of sugar
+        50 grams of brown sugar or java sugar
+        1 tablespoon of oil</string>
+    <string name="kota_resep2">Yogyakarta</string>
+
+
+    <string name="judul_resep3">Cake Roll </string>
+    <string name="isi_resep3">Mixer the egg yolks with sugar until it expands thickens lined up, then sift the flour on top of the egg mixture,
+        stirring again using the spatula until smooth (at this stage the oven can begin to heat for 10-15 minutes)
+        Add SKM, mix well, then add liquid margarine, stir back with spatula
+        Pour in a baking sheet, which has been coated with baking paper, pounding to throw air in the mixture, then bake for 18 minutes with a temperature of 185 degrees Celsius (fire up below) then bake for 3-4 minutes with a temperature of 165 degrees Celsius (top flame), adjust with the temperature of each oven
+        Do the same for the chocolate layer
+        After cooking remove the cake in the oven, turn the cake on new baking paper, top up SKM stack the chocolate layer on top, for free filling can use SKM / buttercream (if I use buttercream), roll and tighten, if you want the cherry shape, after the cake rolled up, roll back with a sakura press,tie,leave in the refrigerator +/- 1 hour or overnight
+        After 1 hour the cake can be removed, leave a few minutes in the room so the cake is not hard because it is cold, cut it when the new cake comes out of the refrigerator, ready to be serve</string>
+    <string name="ket_resep3">Material: (yellow layer)
+        4 btr egg yolks
+        60 grams of sugar
+        30 gr triangular flour
+        1 tablespoon SKM
+        75 gr margarine (melted</string>
+    <string name="kota_resep3">Surabaya</string>
+
+    <string name="judul_resep4">Lemang</string>
+    <string name="isi_resep4">1Heart of rice is washed, then drain. Add coconut milk and salt.
+         Clean the inside of the bamboo reed, then coat the inner edge of the bamboo with banana leaves.
+         Pour glutinous rice which has been given as much as ¾ of the bamboo, then cover the top of the bamboo with banana leaves.
+         Burn bamboo on fire until cooked. Remove the lemang from the bamboo then cut it into pieces and serve
+</string>
+    <string name="ket_resep4">1 kg of sticky rice.
+         1 liter of coconut milk.
+         1 teaspoon of fine salt.
+         Some banana leaves
+         2 bamboo reeds.
+         Bamboo pieces are about 30 to 50 centimeters in size.
+</string>
+    <string name="kota_resep4">Tanah Karo</string>
+
+    <string name="judul_resep5">Kue Pinyaram</string>
+    <string name="isi_resep5">
+        Heat the sugar until it\'s runny, then cool.
+        Add the white rice flour into a container or bowl and mix the cold sugar into it, then stir until smooth.
+        Continue stirring until thick, if stirring still tastes hard, add just water or coconut milk, then stir until thick.
+        After thickening mix enough salt and add vanilla to taste. then fry until cooked.
+</string>
+    <string name="ket_resep5">
+        500 grams of white rice flour.
+        Adequate sugar or palm sugar.
+        Water or coconut milk to taste.
+        1/2 pack of Vanille.
+        Salt.Right amount of oil.
+</string>
+    <string name="kota_resep5">Sumatera Barat</string>
+
+    <string name="judul_resep6">Putri Selat</string>
+    <string name="isi_resep6">Layer I, stir in rice flour, starch, sugar, and suji leaf water.
+         Pour warm coconut milk while stirring evenly. Stir with hot coconut milk. Mix well. Set it aside.
+         Layer II, stir hot coconut milk and brown sugar until dissolved. Filter.
+         Mix the rice flour, starch and coconut milk thoroughly. Add the coconut milk mixture and brown sugar. Stir well. Set it aside.
+         Boil ingredients III over low heat until thick. Set it aside.
+         Pour layer I into a 22 x 22 x 7 cm pan smeared with oil and plastic dial. 10 minutes steamed.
+         Add Layer II. 10 minutes steamed.
+         Finally add layer III. Steam 25 minutes until done.
+         Cut after cold.
+</string>
+    <string name="ket_resep6">
+        150 grams of rice flour
+         50 grams of starch
+         175 grams of sugar
+         75 ml of suji leaf water
+         300 ml of warm coconut milk from 1/2 coconut
+         450 ml of hot coconut milk from 1/2 coconut
+         Layer Material:
+         450 ml of hot coconut milk from 1/2 coconut
+         225 grams of brown sugar, fine comb
+         150 grams of rice flour
+         50 grams of starch
+         375 ml of warm coconut milk from 1/2 coconut
+         Layer Material iii:
+         75 grams of rice flour
+         25 grams of starch
+         600 ml of coconut milk from 1 coconut
+         1/4 teaspoon of salt
+         2 pieces of pandan leaves
+
+</string>
+    <string name="kota_resep6">Banjarmasin</string>
+
+    <string name="judul_resep7">Kue Pinende </string>
+    <string name="isi_resep7">Prepare all necessary ingredients.
+         Mix sticky rice, salt and grated coconut.
+         Pour hot water, little by little while kneading until smooth.
+         Divide into 20 circles, then create a basin in the middle.
+         Fry until cooked brownish.
+         Boil all the ingredients until slightly thickened.
+         Place the cake on a serving plate and pour the jelly on the curve. Pinende cake is ready to be enjoyed.
+
+</string>
+    <string name="ket_resep7">
+        250 gr of Glutinous Flour
+         grated coconut from 1/2 a half old coconut
+         100 ml of hot water
+         1/2 tsp Salt
+         the oil for frying
+         jelly ingredients
+         100 gr of Brown Sugar
+         1 tablespoon of sugar
+         100 ml of water
+         1 sheet of Pandan leaves
+</string>
+    <string name="kota_resep7">Manado</string>
+
+    <string name="judul_resep8">Kue Manco </string>
+    <string name="isi_resep8">Glutinous rice is soaked in water for approximately one night, on the ground, after cooking it is pounded or in smooth gemblong.
+         Take the wooden trays that are already in the base of banana leaves and ares bananas (fill in the banana stems).
+         The dough was taken little by little, flattened on top of the pan by using ares, about two and a half centimeters thick. Each of these pieces is dried in the heat so they can be sliced.
+         After it can be cut, the mixture is cut into pieces with a knife that has been greased, 2 cm wide and 3 - 10 cm long, dried again until it is completely dry.
+         The sacks are fried in sand that has been cleaned, then the rice cake is sifted so that the broth and sand are separated. Similarly, the manco will be fried with sand.
+         The sugar is boiled (not necessary with water) after bathing the manco will be put into it and turned back and then sprinkled with the broth until blended. Be careful about taking this manco because it\'s very fragile.
+
+</string>
+    <string name="ket_resep8">
+        1/2 kg of sticky rice
+        1/2 kg of sticky rice
+        1/4 kg of brown sugar
+</string>
+    <string name="kota_resep8">Madiun</string>
+
+    <string name="judul_resep9">Pie Susu</string>
+    <string name="isi_resep9">How to make a fill
+         Boil custard flour mixed with liquid milk and granulated sugar. Stir until milk, sugar, dissolve and boil.
+         Add the eggs and then stir quickly until evenly mixed, then turn off the heat.
+         Lift the stew, add salt, sweetened condensed milk and vanilla powder. Then wait cold.
+         How to make a milk pie
+         Mix all the ingredients of the pie skin and stir until smooth.
+         Pour the mixture over a flat pie mold with a diameter of about 8 cm. Before pouring the dough, apply the mold with margarine (thin only).
+         Flatten the mixture and shape the edges (can be with the tip of the fork).
+         Stick the bottom of the mixture with a fork to make it evenly mixed.
+         Pour the filling on the skin mixture and bake in an oven with a temperature of 150 degrees Celsius for about 1 hour. Finished.
+</string>
+    <string name="ket_resep9">
+        Leather material:
+         150 gr butter
+         2 egg yolks
+         225 gr of medium protein flour
+         2 tablespoons of refined sugar
+         3 tablespoons cornstarch
+         1/4 tsp salt
+         Stuffing material:
+         1 egg
+         4 tablespoons of sweetened condensed milk
+         1 tsp custard flour
+         300 ml of liquid milk
+         3 tablespoons of sugar
+         1/2 tsp vanilla powder
+         1/4 tsp salt
+</string>
+    <string name="kota_resep9">Bali</string>
+
+    <string name="judul_resep10">Lapis Talas</string>
+    <string name="isi_resep10">Mix taro flour, flour, baking powder and milk powder.
+             Stir well. Set aside. Mix egg, sugar, SP until thickened. Lower the speed, add flour little by little, stir again.
+             Add ROYAL PALMIA BUTTER MARGARINE, then stir again with the spatula evenly.
+             Divide the mixture into 2, each given a yellow and purple dye.
+             Heat the steamer, pour the yellow mixture into the pan that has been coated baking paper atau spread ROYAL PALMIA BUTTER MARGARINE.
+             15 minutes steamed. Then pour the purple mixture. Steamed back 20 minutes. Remove the pan from the steam. Wait until it\'s cold, remove it from the pan.
+                 Brush the surface of the sponge with buttercream and give grated cheese. Then cut according to taste</string>
+    <string name="ket_resep10">
+        100gr Wheat flour
+         150gr Sugar sands
+         1sdt SP
+         3 eggs
+         2sdm Milk powder
+         Tsd Baking powder
+         125gr ROYAL PALMIA BUTTER MARGARINE (liquid)
+         Enough yellow and purple coloring
+         Topping:
+         As much as Buttercream
+         Enough of Grated Cheese
+</string>
+    <string name="kota_resep10"> Bogor</string>
+
+
+    //AboutUs
+    <string name="about_us">
+        With a sense of pride and confidence our group is able to complete this simple application,
+        to fulfill the final assignment requirements in the Mobile Device Application Programming course.
+        Hopefully in the future this application can continue to be developed and can provide tangible benefits to the community.
+        \ NFurthermore, \ allow our group to introduce ourselvesWith a sense of pride and confidence our group is able to complete
+        this simple application, to fulfill the final assignment requirements in the Mobile Device Application Programming course.
+        Hopefully in the future this application can continue to be developed and can provide tangible benefits to the community.
+        \ NFurthermore, \ allow our group to introduce themselves</string>
+    <string name="title_activity_maps">Map</string>
+
+    //Maps
+    <string name="app">Carot</string>
+    <string name="maps">Map</string>
+    <string name="normal_map">normal_map</string>
+    <string name="hybrid_map">hybrid_map</string>
+    <string name="satellite_map">satellite_map</string>
+    <string name="terrain_map">terrain_map</string>
+
+
+</resources>
+

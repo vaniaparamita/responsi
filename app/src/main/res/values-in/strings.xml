@@ -1,0 +1,343 @@
+<resources>
+    <string name="app_name">Carot</string>
+    <string name="email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in_short">Daftar</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="auth_failed">Gagal Masuk, Silakan cek email dan password</string>
+    <string name="btn_link_to_register">Belum menjadi Anggota? Registrasi sekarang!</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_link_to_login">Sudah menjadi anggota? Login yuk!</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+
+
+    //Info-Kue
+    <string name="judul_info1">Bika Ambon Dari Medan</string>
+    <string name="isi_info1">Bika Ambon adalah kue pipih berwarna kuning,
+        yang permukaannya terlihat seperti pori-pori kulit manusia,
+        dan bagian bawahnya keras, sisa dari tempaan panas di dasar loyang.
+        Bika Ambon ini biasa tersaji dalam potongan persegi. Saat dimakan,
+        citarasa legit tercampur dengan sensasi kenyal di lidah. Aroma harum pandan menyengat.
+  </string>
+
+
+    <string name="judul_info2">Bakpia Dari Yogyakarta</string>
+    <string name="isi_info2">Bakpia sebenarnya berasal dari negeri Cina,
+        aslinya bernama Tou Luk Pia, yang artinya adalah kue pia (kue) kacang hijau. Selain itu pula bakpia mulai diproduksi di kampung Pathok Yogyakarta, sejak sekitar tahun 1948. Waktu itu masih diperdagangkan secara eceran dikemas dalam besek tanpa label, peminatnya pun masih sangat terbatas.
+        Proses itu berlanjut hingga mengalami perubahan dengan kemasan kertas karton disertai label tempelan.</string>
+
+
+    <string name="judul_info3">Bolu Gulung Dari Surabaya</string>
+    <string name="isi_info3">Bolu Gulung Surabaya merupakan oleh-oleh khas
+        Surabaya yang terbaru dan kekinian. Oleh-oleh ini terasa begitu
+        spesial, karena tersedia dalam banyak varian, mulai dari varian cake rasa vanilla, cake rasa pandan, dan cake rasa coklat. Untuk Filling (isi) tersedia selai meises, durian, cheese, pineapple, strawberry, buttercream vanilla, buttercream chocolate
+</string>
+
+
+    <string name="judul_info4">Lemang Dari Karo</string>
+    <string name="isi_info4">Lemang atau dalam bahasa Karo disebut rires, bisa dinikmati dengan berbagai saus pelengkap. Pada musim durian, sausnya akan dicampur dengan durian. Tapi pada masyarakat Karo biasa dimakan dengan saus yang disebut tengguli, terbuat dari gula merah.
+</string>
+
+
+    <string name="judul_info5">Pinyaram Dari Padang</string>
+    <string name="isi_info5">Sumatera Barat memiliki banyak sekali penganan
+        tradisional yang bercitarasa sangat lezat dan salah satu penganan yang sangat khas bernama Kue Pinyaram dan umumnya kue ini dibuat saat menyambut hari raya serta perayaan khusus. Kue pinyaram dibuat dari campuran gula area,
+        tepung bera putih atau tepung beras hitam dan juga santan.</string>
+
+
+    <string name="judul_info6">Putri Selat Dari Kalimantan</string>
+    <string name="isi_info6">Kue Putri Selat dikenal sebagai kue tradisional khas Banjar,
+        Kalimantan Selatan. Ciri khas kue ini terdiri dari tiga lapisan kue dengan warna hijau,
+        coklat, dan putih. Lapisan warna hijau berasal dari penggunaan air daun suji,
+        warna coklat dari gula merah, dan warna putih dari santan dan tepung beras.
+        Penggunaan bahan santan sangat dominan, yang diperlukan untuk semua lapisan kue.</string>
+
+    <string name="judul_info7">Kue Pinende Dari Manado</string>
+    <string name="isi_info7">Kue Pinende adalah salah satu kue tradisional dari
+        Manado. Bahan dasar untuk pembuatannya adalah tepung ketan, air panas,
+        garam, dan parutan kelapa. Bagian atas kue ini diberi sirup gula merah.
+        Cemilan manis ini pantas dinikmati di pagi hari sambil secangkir teh hangat
+
+</string>
+
+    <string name="judul_info8">Kue Manco Dari Madiun</string>
+    <string name="isi_info8">Makanan khas Madiun Jawa Timur yang satu ini disebut
+        kue manco yaitu jajanan khas Madiun yang berbahan ketan. Kue manco ini
+        merupakan warisan dari nenek moyang yang mitosnya jajanan ini tidak bisa
+        dibuat di daerah manapun selain di desa asalnya yaitu Desa Tambak Mas.</string>
+
+
+    <string name="judul_info9">Pie Susu Dari Bali</string>
+    <string name="isi_info9">Pie Susu Bali adalah jajanan khas yang biasa menjadi oleh-oleh khas ketika berlibur ke bali. Pie berbentuk piringan kecil dengan rasa susu yang enak di lidah. Pie Susu buatan kami tidak menggunakan gula atau tanpa pemanis buatan, tanpa pengawet, HALAL dan dengan flat yang lebih tebal, terasa melted di lidah dan harganya juga murah. Pie Susu kami bisa dikirim ke hotel, silahkan hubungi kami untuk informasi lebih lanjut
+.</string>
+
+    <string name="judul_info10">Lapis Talas Dari Bogor</string>
+    <string name="isi_info10">Sudah sejak dahulu, talas dikenal sebagai salah
+        satu oleh-oleh khas dari Kota Bogor dalam bentuk mentahan dan terdiri
+        dari beberapa buah dalam seikat. Namun kini, talas yang cukup identik dengan
+        makanan khas pedesaan sudah mulai dikembangkan ke dalam beberapa olahan
+        yang dapat meningkatkan nilai jual dan cita rasa berbeda dari talas.
+
+</string>
+
+    //ResepKue
+    <string name="judul_resep1">Bika Ambon</string>
+    <string name="isi_resep1">Bahan biang:
+            Campur tepung terigu, gula pasir, air dan ragi instan, aduk rata kemudian diamkan selama 15 menit pada suhu ruang
+            Bahan santan:
+            Masukkan santan kental dan santan cair, daun jeruk, serai dan kunyit bubuk, aduk sampai mendidih dengan api kecil.
+            Bahan utama:
+            Masukkan telur utuh, kuning telur, gula pasir, garam dan vanilla bubuk, aduk hingga mengembang kemudian masukkan tepung sagu dan tepung ketan, aduk.
+            Masukkan bahan biang ke dalam bahan utama, aduk sampai rata kemudian masukkan bahan santan, aduk sampai rata lalu diamkan selama 2 jam.
+            Setelah diistirahatkan, aduk kembali. Masukkan kedalam loyang yang sudah diberikan minyak dan sudah dipanaskan. Panggang dalam oven dengan suhu 180℃ selama 35-40 menit dengan pintu oven sedikit terbuka dan menggunakan api bawah. Angkat dan sajikan.</string>
+    <string name="ket_resep1">300 ml santan kental
+                            100 ml santan cair
+                            4 lembar daun jeruk buang batang
+                            2 batang serai, memarkan
+                            1 sdm kunyit bubuk
+                            Bahan biang:
+                            50 gr tepung protein sedang
+                            2 sdm gula pasir
+                            120 ml air
+                            8 g ragi instan
+                            Bahan utama
+                            2 butir telur utuh
+                            8 butir kuning telur
+                            100 g tepung sagu
+                            50 g tepung ketan
+                            200 g gula pasir
+                            ½ sdt garam
+                            1 sdt vanila bubuk</string>
+    <string name="kota_resep1">Medan</string>
+
+
+    <string name="judul_resep2">Bakpia</string>
+    <string name="isi_resep2">Membuat Bahan Isian Bakpia : Kukus kacang ijo yang sudah ditiriskan, selama kurang lebih 20 menit sampai kacang mengembang, lalu angkat.
+        Masukan gula pasir, gula merah, garam, santan dan daun pandan, masak hingga mengental rata (kalis), tambahkan minyak sebelum api dimatikan. Aduk campuarn tersebut hingga mengental rata (kalis) dan licin. Angkat lalu tunggu sampai agak dingin lalu bentukla menjadi bola-bola kecil.
+        Membuat Bahan Lapisan Bakpia : aduk semua bahan lapisan hingga rata, lalu sisihkan.
+        Membuat Bahan Kulit Bakpia : panaskan air tidak sampai mendidih, masukan gula aduk sampai gula larut semua dan merata lalu angkat. campurkan terigu dan garam hingga rata, tuangakan air larutan gula sedikit demi sedikit sambil diuleni hingga merata.
+        Tuangkan minyak sayur sambil diuleni hingga merata dan kalis.
+        Ambil adonan kira-kira 10 gram. Pipihkan adonan, lalu ambil sedikit adonan lapisan, ratakan diatas permukaan adonan sebelumnya hingga rata.
+        Lipat adonan dan rekatkan ujungnya membentuk bulatan.
+        Rendam adonan bulat ke dalam minyak yang tersisa selama kira-kira 15 menit.
+        Pipihkan adonan sampai agak tipis, lalu isi dengan adonan bahan isian, bentuk bulat pipih.
+        Panggang adonan yang sudah diisi kedalam oven dengan temperatur 200 derajat C smapai matang kira-kira 15-20 menit. Agar warna kuning merata di bagian atas bakia anda bisa membolak-balik adonan. Sekiranya sudah sesuai keinginan angkat.
+
+</string>
+    <string name="ket_resep2">Bahan kulit Bakpia :
+        125 gram tepung terigu rendah protein
+        65 gram tepung terigu tinggi protein
+        100 ml air
+        2 sendok makan gula pasir
+        1/2 sendok makan garam
+        200 ml minyak sayur
+        (untuk campuran adonan 50 ml dan untuk rendaman 150 ml)
+        Bahan Lapisan Bakpia :
+        65 gram tepung terigu rendah protein
+        25 ml minyak sayur
+        1/2 sendok makan margarine
+        Bahan Isian Bakpia :
+        100 gram kacang ijo/kacang hijau yang telah dikupas (rendam semalaman)
+        150 ml santan (dari 1/2 butir kelapa)
+        1/8 sendok teh garam
+        1 lembar daun pandan
+        25 gram gula pasir
+        50 gram gula merah atau gula jawa
+        1 sendok makan minyak</string>
+    <string name="kota_resep2">Yogyakarta</string>
+
+    <string name="judul_resep3">Bolu Gulung</string>
+    <string name="isi_resep3">Mixer kuning telur dengan gula sampai mengembang dan kental berjejak,
+        lalu ayak tepung di atas adonan telur, aduk balik menggunakan spatula hingga rata (di tahap ini oven bisa mulai dipanaskan selama 10-15 menit)
+        Masukkan SKM aduk rata, lalu masukkan margarin cair, aduk balik kembali dgn spatula
+        Tuang dalam loyang, yang sudah dialasi kertas roti, hentakan utk membuang udara dalam adonan, lalu panggang selama 18 menit dengan suhu 185 derajat celcius (api atas bawah) lalu panggang selama 3-4 menit dgn suhu 165 derajat celcius (api atas), sesuaikan dgn suhu oven masing2 ya
+        Lakukan hal yg sama utk lapisan coklatnya ya
+        Setelah matang keluarkan kue dr dlm oven, balikkan kue di atas kertas roti baru, oles SKM dan tumpukkan lapisan coklat diatasnya, utk filling bebas bisa menggunakan SKM/buttercream (kalau saya menggunakan buttercream), gulung dan padatkan, apabila ingin bentuk sakura, setelah kue tergulung, gulung kembali dgn alat press sakura, ikat dan diamkan dalam kulkas +/- 1 jam atau semalaman
+        Setelah 1 jam kue bisa dikeluarkan, diamkan beberapa menit dlm ruangan agar kue tdk keras krn dingin, potong2 saat kue baru keluar dr kulkas, siap disajikan
+</string>
+    <string name="ket_resep3">Bahan : (lapisan kuning)
+        4 btr kuning telur
+        60 gr gula pasir
+        30 gr tepung segitiga
+        1 sdm SKM
+        75 gr margarin (lelehkan)
+</string>
+    <string name="kota_resep3">Surabaya</string>
+
+    <string name="judul_resep4">Lemang</string>
+    <string name="isi_resep4">Beras ketan dicuci, lalu tiriskan. Tambahkan santan kelapa dan garam.
+        Bersihkan bagian dalam dari buluh bambu tersebut, lalu lapisi bagian pinggiran dalam bambu dengan daun pisang.
+        Tuangkan beras ketan yang telah diberi santan sebanyak ¾ dari bagian bambu, lalu tutupi bagian atas bambu dengan daun pisang.
+        Bakar bambu di atas api hingga matang. Keluarkan lemang dari bambu kemudian potong-potong dan sajikan
+</string>
+    <string name="ket_resep4">1 kg beras ketan.
+        1 liter santan kelapa.
+        1 sdt garam halus.
+        Beberapa lembar daun pisang
+        2 batang buluh bambu.
+        Potongan bambu berukuran sekitar 30 sampai 50 centimeter.
+</string>
+    <string name="kota_resep4">Tanah Karo</string>
+
+    <string name="judul_resep5">Kue Pinyaram</string>
+    <string name="isi_resep5">Panaskan gula sampai cair, setelah itu dinginkan.
+        Masukkan tepung beras putih kedalam wadah atau mangkuk lalu campurkan gula yang sudah dingin tadi ke dalamnya, lalu aduk-aduk hingga rata.
+        Terus aduk sampai kental, jika adukkan berasa masih keras tambahkan saja air atau santan, terus aduk sampai kental.
+        Setelah kental campurkan garam secukupnya dan masukkan vanilla secukupnya. lalu goreng hingga matang.
+</string>
+    <string name="ket_resep5">500 gram Tepung beras putih.
+        Gula atau gula aren secukupnya.
+        Air atau santan secukupnya.
+        1/2 bungkus Vanille.
+        Garam.
+        Minyak goreng secukupnya.
+</string>
+    <string name="kota_resep5">Sumatera Barat</string>
+
+    <string name="judul_resep6">Putri Selat</string>
+    <string name="isi_resep6">Lapisan I, aduk tepung beras, tepung kanji, gula, dan air daun suji.
+        Tuang santan hangat sambil diaduk rata. Seduh dengan santan panas.Aduk rata. Sisihkan.
+        Lapisan II, aduk santan panas dan gula merah sampai larut. Saring.
+        Aduk rata tepung beras, tepung kanji, dan santan hangat. Tambahkan campuran santan dan gula merah. Aduk rata. Sisihkan.
+        Rebus bahan III diatas api kecil sampai kental. Sisihkan.
+        Tuang lapisan I ke dalam loyang 22 x 22 x 7 cm yang dioles minyak dan dialas plastik. Kukus 10 menit.
+        Tambahkan Lapisan II. Kukus 10 menit.
+        Terakhir tambahkan lapisan III. Kukus 25 menit sampai matang.
+        Potong-potong setelah dingin.
+</string>
+    <string name="ket_resep6">
+        150 gram tepung beras
+        50 gram tepung kanji
+        175 gram gula pasir
+        75 ml air daun suji
+        300 ml santan hangat dari 1/2 butir kelapa
+        450 ml santan panas dari 1/2 butir kelapa
+        Bahan Lapisan Ii:
+        450 ml santan panas dari 1/2 butir kelapa
+        225 gram gula merah , sisir halus
+        150 gram tepung beras
+        50 gram tepung kanji
+        375 ml santan hangat dari 1/2 butir kelapa
+        Bahan Lapisan Iii:
+        75 gram tepung beras
+        25 gram tepung kanji
+        600 ml santan dari 1 butir kelapa
+        1/4 sendok teh garam
+        2 lembar daun pandan
+
+
+</string>
+    <string name="kota_resep6">Banjarmasin</string>
+
+    <string name="judul_resep7">Kue Pinende </string>
+    <string name="isi_resep7">Siapkan semua bahan yg diperlukan.
+        Campur tepung ketan, garam dan parutan kelapa.
+        Tuangkan air panas, sedikit demi sedikit sambil diuleni hingga kalis.
+        Bagi menjadi 20 bulatan, lalu buat cekungan di tengahnya.
+        Goreng hingga matang kecoklatan.
+        Rebus semua bahan kincau hingga sedikit mengental.
+        Letakkan kue diatas piring saji dan tuangkan kincau ke atas lekukan. Kue Pinende siap dinikmati.
+
+</string>
+    <string name="ket_resep7">250 gr Tepung Ketan
+        parutan kelapa dari 1/2 butir kelapa setengah tua
+        100 ml Air Panas
+        1/2 sdt Garam
+        minyak untuk menggoreng
+        bahan kincau
+        100 gr Gula Merah
+        1 sdm Gula Pasir
+        100 ml Air
+        1 lembar Daun Pandan
+</string>
+    <string name="kota_resep7">Manado</string>
+
+    <string name="judul_resep8">Kue Manco </string>
+    <string name="isi_resep8">Ketan direndam dalam air kurang lebih satu malam, ditanak, setelah masak ditumbuk atau di gemblong yang halus.
+        Ambil dulang kayu yang sudah di alas daun pisang dan ares pisang (isi batang pisang).
+        Adonan tadi diambil sedikit demi sedikit, diratakan diatas dulang dengan memakai ares, kira-2 setebal satu setengah cm. Tiap-tiap kepingan ini dijemur dipanas supaya dapat diiris-iris.
+        Setelah dapat dipotong, maka adonan tadi dipotong-potong dengan pisau yang telah dilumuri minyak, dengan lebar 2 cm dan panjang 3 – 10 cm, dijemur lagi hingga kering betul.
+        Karuk digoreng dengan pasir yang telah dibersihkan, kemudian brondong tadi diayak supaya brondong dan pasir terpisah. Begitu pula bakal manco digoreng dengan pasir tersebut.
+        Gula direbus (tidak perlu dengan air) setelah berbenang bakal manco dimasukkan kedalamnya dan dibolak-balik kemudian ditaburi brondong hingga rata. Hati-hati mengambil manco ini karena sangat ringkih.
+</string>
+    <string name="ket_resep8">1/2 kg ketan
+        1/2 kg karuk ketan
+        1/4 kg gula merah
+</string>
+    <string name="kota_resep8">Madiun</string>
+
+    <string name="judul_resep9">Pie Susu</string>
+    <string name="isi_resep9">Cara membuat isian
+        Rebus tepung custard yang sudah dicampurkan susu cair dan gula pasir. Aduk hingga susu, gula, larut dan mendidih.
+        Masukkan telur dan kemudian aduk cepat hingga tercampur rata, kemudian matikan api.
+        Angkat rebusan, tambahkan garam, susu kental manis dan vanili bubuk. Kemudian tunggu dingin.
+        Cara membuat pie susu
+        Campurkan semua bahan kulit pie dan aduk hingga rata.
+        Tuang adonan di atas cetakan pie datar dengan diameter sekitar 8 cm. Sebelum dituang adonan, oleskan cetakan dengan margarin (tipis saja).
+        Ratakan adonan dan bentuk bagian pinggirnya (bisa dengan ujung garpu).
+        Tusuk-tusuk bagian bawah adonan dengan garpu agar matangnya merata.
+        Tuangkan isian di atas adonan kulit dan panggang dalam oven dengan suhu 150 derajat Celcius sekitar 1 jam. Selesai.
+</string>
+    <string name="ket_resep9">
+        Bahan kulit :
+        150 gr mentega
+        2 kuning telur
+        225 gr terigu protein sedang
+        2 sdm gula halus
+        3 sdm tepung maizena
+        1/4 sdt garam
+        Bahan isian :
+        1 butir telur ayam
+        4 sdm susu kental manis
+        1 sdt tepung custard
+        300 ml susu cair
+        3 sdm gula pasir
+        1/2 sdt vanili bubuk
+        1/4 sdt garam
+
+</string>
+    <string name="kota_resep9">Bali</string>
+
+    <string name="judul_resep10">Lapis Talas</string>
+    <string name="isi_resep10">Campur tepung talas, terigu, baking powder dan susu bubuk.
+        Aduk rata. Sisihkan.Mixer telur, gula, SP sampai mengembang kental. Turunkan speed, tambahkan terigu sedikit demi sedikit, aduk rata kembali.
+        Tambahkan ROYAL PALMIA BUTTER MARGARINE, lalu aduk balik dengan spatula hingga merata.
+        Bagi adonan menjadi 2, masing2 diberi pewarna kuning dan ungu.
+        Panaskan kukusan, tuang adonan kuning ke loyang yg sudah dialasi baking paper/olesi ROYAL PALMIA BUTTER MARGARINE .
+        Kukus 15 menit. Lalu tuang adonan ungu. Kukus kembali 20 menit. Keluarkan loyang dari kukusan. Tunggu hingga dingin, keluarkan dari loyang.
+        Olesi permukaan bolu dgn buttercream dan beri parutan keju. Lalu potong sesuai seler
+</string>
+    <string name="ket_resep10">
+        100gr Tepung terigu
+        150gr Gula pasir
+        1sdt SP
+        3butir Telur
+        2sdm Susu bubuk
+        ¼sdt Baking powder
+        125gr ROYAL PALMIA BUTTER MARGARINE (cairkan)
+        Secukupnya Pewarna kuning dan ungu
+        Topping:
+        Secukupnya Buttercream
+        Secukupnya Keju Parut
+</string>
+    <string name="kota_resep10"> Bogor</string>
+
+
+    //AboutUs
+    <string name="about_us">Dengan rasa bangga dan percaya diri kelompok kami mampu memnyelesaikan aplikasi sederhana ini,
+        untuk memenuhi persyaratan tugas akhir pada matakuliah Pemrograman Aplikasi Perangkat Bergerak.
+        Semoga kedepannya aplikasi ini dapat terus dikembangkan dan dapat memberikan manfaat yang nyata untuk masyarakat.
+        \nSelanjutnya,\nizinkan kelompok kami memperkenalkan diri</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    //Maps
+
+        <string name="app">Carot</string>
+        <string name="maps">Map</string>
+        <string name="normal_map">normal_map</string>
+        <string name="hybrid_map">hybrid_map</string>
+        <string name="satellite_map">satellite_map</string>
+        <string name="terrain_map">terrain_map</string>
+
+</resources>

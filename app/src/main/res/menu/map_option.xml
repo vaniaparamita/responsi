@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/satu"
+        android:title="@string/normal_map"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/dua"
+        android:title="@string/hybrid_map"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/tiga"
+        android:title="@string/satellite_map"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/empat"
+        android:title="@string/terrain_map"
+        app:showAsAction="never"
+        />
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732416550958",
+    "firebase_url": "https://homeslider-6a612.firebaseio.com",
+    "project_id": "homeslider-6a612",
+    "storage_bucket": "homeslider-6a612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732416550958:android:49bf9dc322405c6b",
+        "android_client_info": {
+          "package_name": "com.example.homeslide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732416550958-sl8hjk5c451e3vjtbmhsr0hen7tlp5um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeslide",
+            "certificate_hash": "bfc8f5560e037b5276bcea04830604b98c4385b5"
+          }
+        },
+        {
+          "client_id": "732416550958-pnae7qk2irk4ocs9vio5krjonpd3680v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnovP5Nt4XOA3-UXKnDu1uB29uM70z7SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732416550958-pnae7qk2irk4ocs9vio5krjonpd3680v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
